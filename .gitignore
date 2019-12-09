@@ -3,5 +3,5 @@
 __pycache__
 myvenv
 db.sqlite3
-/static
+/static/wg_logo.ico
 .DS_Store
